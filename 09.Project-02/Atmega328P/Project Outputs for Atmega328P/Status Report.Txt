@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Atmega328P.PrjPcb]
+   Generated File[PCB_Atmega328P-RoundHoles.TXT]
+   Generated File[PCB_Atmega328P-SlotHoles.TXT]
+   Generated File[PCB_Atmega328P.LDP]
+   Generated File[PCB_Atmega328P.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:50:01 PM On 1/4/2022

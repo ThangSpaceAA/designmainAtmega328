@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Atmega328P.PcbDoc   1/4/2022  10:50:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Atmega328P-RoundHoles.TXT
+ASCII SlotHoles File : PCB_Atmega328P-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             278       PTH        0.00mm (0.00inch)
+T2      0.7mm (28mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T3      0.7mm (28mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T4      0.762mm (30mil)                                           Round             12        PTH        0.00mm (0.00inch)
+T5      0.787mm (31mil)                                           Round             32        PTH        0.00mm (0.00inch)
+T6      0.787mm (31mil)                                           Slot              2         PTH        0.00mm (0.00inch)
+T7      0.8mm (31mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T8      0.864mm (34mil)                                           Round             9         PTH        0.00mm (0.00inch)
+T9      0.9mm (35mil)                                             Round             28        PTH        0.00mm (0.00inch)
+T10     1mm (39mil)                                               Round             11        PTH        0.00mm (0.00inch)
+T11     1.016mm (40mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T12     1.143mm (45mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T13     1.2mm (47mil)                                             Round             7         PTH        0.00mm (0.00inch)
+T14     1.3mm (51mil)                                             Round             18        PTH        0.00mm (0.00inch)
+T15     3.2mm (126mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T16     1mm (39mil)                                               Round             1         NPTH       0.00mm (0.00inch)
+T17     1.3mm (51mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              425
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=dir Pin=R81-2
+Added Pin To Net: NetName=dir Pin=U21-4
+Added Pin To Net: NetName=dir Pin=U21-5
+Added Member To Class: ClassName=Atmega328P.~(23) Member=Component R14 0R FIX 3V3
+Added Room: Name=Atmega328P.~(23)

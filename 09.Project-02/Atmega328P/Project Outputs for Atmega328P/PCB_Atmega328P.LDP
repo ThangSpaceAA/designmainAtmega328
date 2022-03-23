@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\02.QLDA\17.OutSource\beta_1\09.Project-02\Atmega328P\PCB_Atmega328P.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_atmega328p-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_atmega328p-slotholes.txt|DrillLayers=gtl,gbl

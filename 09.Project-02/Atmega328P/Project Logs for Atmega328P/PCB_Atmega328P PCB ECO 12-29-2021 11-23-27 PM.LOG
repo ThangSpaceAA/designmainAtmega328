@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=5V_IN Pin=C40-1
+Removed Pin From Net: NetName=GND_5V Pin=C40-2
+Removed Pin From Net: NetName=5V_ISO Pin=C41-1
+Removed Pin From Net: NetName=GND_ISO Pin=C41-2
+Removed Pin From Net: NetName=5V_IN Pin=C42-1
+Removed Pin From Net: NetName=GND_5V Pin=C42-2
+Removed Pin From Net: NetName=5V_ISO Pin=C49-1
+Removed Pin From Net: NetName=GND_ISO Pin=C49-2
+Removed Pin From Net: NetName=GND_ISO Pin=C50-1
+Removed Pin From Net: NetName=5V_ISO Pin=C50-2
+Removed Pin From Net: NetName=GND_ISO Pin=C51-1
+Removed Pin From Net: NetName=5V_ISO Pin=C52-1
+Removed Pin From Net: NetName=GND_ISO Pin=C52-2
+Removed Pin From Net: NetName=GND_ISO Pin=C53-1
+Removed Pin From Net: NetName=5V_ISO Pin=C53-2
+Removed Pin From Net: NetName=GND_ISO Pin=D4-1
+Removed Pin From Net: NetName=GND_ISO Pin=D29-1
+Removed Pin From Net: NetName=GND_ISO Pin=IC2-5
+Removed Pin From Net: NetName=5V_ISO Pin=IC2-8
+Removed Pin From Net: NetName=GND_ISO Pin=L6-3
+Removed Pin From Net: NetName=GND_ISO Pin=L6-4
+Removed Pin From Net: NetName=5V_ISO Pin=R10-2
+Removed Pin From Net: NetName=GND_ISO Pin=R74-2
+Removed Pin From Net: NetName=5V_ISO Pin=R78-1
+Removed Pin From Net: NetName=5V_ISO Pin=R79-1
+Removed Pin From Net: NetName=GND_5V Pin=U19-1
+Removed Pin From Net: NetName=5V_IN Pin=U19-2
+Removed Pin From Net: NetName=5V_IN Pin=U23-1
+Removed Pin From Net: NetName=NetU6_4 Pin=U23-3
+Removed Pin From Net: NetName=GND_5V Pin=U23-4
+Removed Pin From Net: NetName=GND_ISO Pin=U23-5
+Removed Pin From Net: NetName=5V_ISO Pin=U23-8
+Removed Pin From Net: NetName=GND_ISO Pin=U24-7
+Removed Pin From Net: NetName=5V_ISO Pin=U24-14
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=C50
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=C51
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=C52
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=C53
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=D4
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=D27
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=D28
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=D29
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=IC2
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R10
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R73
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R74
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R76
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R77
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R78
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R79
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=R80
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=U23
+Removed Member From Class: ClassName=[1].ISO-RS485 Member=U24
+Added Component: Designator=C40(CAP-1206-SC)
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAP-1206-SC)
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP 6.3X12X2.5)
+Added Component: Designator=C49(CAP-1206-SC)
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=P6(SOT23C)
+Added Component: Designator=R1(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U21(SOIC127P1030X265-16N)
+Added Pin To Net: NetName=5V_ST Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=5V_ST Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=5V_ISO Pin=C42-1
+Added Pin To Net: NetName=GND_ISO Pin=C42-2
+Added Pin To Net: NetName=5V_ISO Pin=C49-1
+Added Pin To Net: NetName=GND_ISO Pin=C49-2
+Added Pin To Net: NetName=GND Pin=L6-4
+Added Pin To Net: NetName=GND_ISO Pin=P6-2
+Added Pin To Net: NetName=5V_ISO Pin=R1-2
+Added Pin To Net: NetName=GND_ISO Pin=R3-1
+Added Pin To Net: NetName=3V3_ST Pin=R75-2
+Added Pin To Net: NetName=GND Pin=U19-1
+Added Pin To Net: NetName=5V_ST Pin=U19-2
+Added Pin To Net: NetName=5V_ST Pin=U21-1
+Added Pin To Net: NetName=GND Pin=U21-2
+Added Pin To Net: NetName=NetU6_4 Pin=U21-6
+Added Pin To Net: NetName=GND Pin=U21-7
+Added Pin To Net: NetName=GND Pin=U21-8
+Added Pin To Net: NetName=GND_ISO Pin=U21-9
+Added Pin To Net: NetName=GND_ISO Pin=U21-10
+Added Pin To Net: NetName=GND_ISO Pin=U21-15
+Added Pin To Net: NetName=5V_ISO Pin=U21-16
+Change Net Name : Old Net Name=EN_485 New Net Name=DIR_485
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P6-1
+Added Pin To Net: NetName=NetF1_1 Pin=R1-1
+Added Pin To Net: NetName=NetF1_1 Pin=R2-2
+Added Pin To Net: NetName=NetF1_1 Pin=U21-12
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=P6-3
+Added Pin To Net: NetName=NetF2_1 Pin=R2-1
+Added Pin To Net: NetName=NetF2_1 Pin=R3-2
+Added Pin To Net: NetName=NetF2_1 Pin=U21-13
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=RX Pin=L6-3
+Added Pin To Net: NetName=RX Pin=U6-6
+Added Pin To Net: NetName=RX Pin=U21-3
+Added Net: Name=RX
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component P6 PSM712
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component R1 4K7
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component R2 120R
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component R3 4K7
+Added Member To Class: ClassName=Atmega328P.~(23) Member=Component R14 0R FIX 3V3
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component U21 RS485-ISO
+Added Room: Name=[1].ISO-RS485
+Added Room: Name=Atmega328P.~(23)
