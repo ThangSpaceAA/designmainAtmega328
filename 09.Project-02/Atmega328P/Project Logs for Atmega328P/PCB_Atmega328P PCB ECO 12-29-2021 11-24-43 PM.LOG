@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=DIR_485 New Net Name=dir
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component C40 106
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component C41 104
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component C42 47uF/10V
+Added Member To Class: ClassName=[1].ISO-RS485 Member=Component C49 104
+Added Member To Class: ClassName=Atmega328P.~(23) Member=Component R14 0R FIX 3V3
